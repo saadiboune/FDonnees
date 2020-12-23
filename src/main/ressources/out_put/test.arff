@@ -1,0 +1,10 @@
+@relation Classification-Opinion
+@attribute Commentaire string
+@attribute Class {positif,negatif}
+@data
+'the film is good','positif'
+'the film is the best','positif'
+'this movie is awesome','positif'
+'this film is a sheat','negatif'
+'this movie is bad','negatif'
+'this movie is busy','negatif'
